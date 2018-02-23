@@ -1,0 +1,511 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tea",
+				"teamCount"
+			],
+			[
+				"sort",
+				"sort_by"
+			],
+			[
+				"sor",
+				"sorb\tsort_by { |e| .. }"
+			],
+			[
+				"te",
+				"teamCount"
+			],
+			[
+				"wins",
+				"wins"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"de",
+				"defi\tdef initialize .."
+			],
+			[
+				"def",
+				"def\tdef … end"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"st",
+				"stock"
+			],
+			[
+				"att",
+				"attr_accessor"
+			],
+			[
+				"cla",
+				"cla\tclass .. initialize .. end"
+			],
+			[
+				"breathe",
+				"breathe_fire"
+			],
+			[
+				"c",
+				"cla\tclass .. initialize .. end"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"di",
+				"divide"
+			],
+			[
+				"sub",
+				"substract"
+			],
+			[
+				"spl",
+				"split_string"
+			],
+			[
+				"rever",
+				"reverse_string"
+			],
+			[
+				"met",
+				"method_name"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"gs",
+				"gsub"
+			],
+			[
+				"pla",
+				"playerScore"
+			],
+			[
+				"ai",
+				"aiScore"
+			],
+			[
+				"puts",
+				"puts"
+			],
+			[
+				"word",
+				"wordArr"
+			],
+			[
+				"eac",
+				"each"
+			],
+			[
+				"unl",
+				"until\tuntil ... end"
+			],
+			[
+				"if",
+				"ife\tif … else … end"
+			],
+			[
+				"my",
+				"mynum"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"Chic",
+				"Chick-Fil-A"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"border-ty",
+				"border-style"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"backface-visibility"
+			],
+			[
+				"conte",
+				"align-content"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"Chick",
+				"chickFilA"
+			],
+			[
+				"le",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"des",
+				"designerQuestion"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ma",
+				"maxHeartRate"
+			],
+			[
+				"arr",
+				"arrayCalc"
+			],
+			[
+				"age",
+				"age"
+			],
+			[
+				"o",
+				"obj1"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"dice",
+				"dice2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"game",
+				"gameplaying"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"next",
+				"nextPlayer"
+			],
+			[
+				"round",
+				"roundscore"
+			],
+			[
+				"active",
+				"activeplayer"
+			],
+			[
+				"current",
+				"current-0"
+			],
+			[
+				"ac",
+				"activeplayer"
+			],
+			[
+				"rou",
+				"roundscore"
+			],
+			[
+				"score",
+				"score-0"
+			],
+			[
+				"dic",
+				"diceDOM"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 250.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 491.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+			"git push"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Joe/Desktop/TTS_Projects/Day8_exercises.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/Day7_Exercises.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/Day7_Notes.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/day7_HW.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/day6_HW.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/day6_exercises.rb",
+		"/C/Users/Joe/Desktop/js_complete1/day6_HW.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/program1.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/day 6 exercises.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/day5_HW.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week2/into_to_ruby.rb",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 4/Restaurant_Site with_BS/index.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 3/Restaurant site/styles.css",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 4/Restaurant_Site with_BS/About.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 4/Restaurant_Site with_BS/Login.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 4/Restaurant_Site with_BS/projects.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 4/Restaurant_Site with_BS/contact.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 4/Restaurant_Site with_BS/styles.css",
+		"/C/Users/Joe/Desktop/js_complete1/contact.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Restaurant site/My top 5 favorite restaurants.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Restaurant site/styles.css",
+		"/C/Users/Joe/Desktop/index.html",
+		"/C/Users/Joe/Desktop/Meetup_Projects/02012018 _Javascript-101/completed code.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 4/Bootstrap/index.html",
+		"/C/Users/Joe/Desktop/JS-Meetup.js",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/DAy 3 HW assignment",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 3/index.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 3/index.css",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 3/practice.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day 3/practice.css",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/Day2.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/table.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/travel/travel.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/practice.html",
+		"/C/Users/Joe/Desktop/TTS_Projects/Week1/practice.css",
+		"/C/Users/Joe/Desktop/js_complete1/5-Advanced-JS/index.html",
+		"/C/Users/Joe/Desktop/js_complete1/5-Advanced-JS/script.js",
+		"/C/Users/Joe/Desktop/TTS_assignments/day1_HW",
+		"/C/Users/Joe/Desktop/js_complete1/4-DOM-Pig-Game/index.html",
+		"/C/Users/Joe/Desktop/js_complete1/4-DOM-Pig-Game/style.css",
+		"/C/Users/Joe/Desktop/js_complete1/4-DOM-Pig-Game/app.js",
+		"/C/Users/Joe/Desktop/js_complete1/3-How-JS-Works/script.js"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 107.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"4-DOM-Pig-Game\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

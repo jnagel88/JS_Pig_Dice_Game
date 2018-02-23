@@ -158,6 +158,10 @@ i {
     transition: margin 0.3s;
 }
 
+.btn-code { 
+    top: 560px;
+    left: 80px;
+}
 .btn-rules { top: 45px;}
 .btn-new { top: 85px;}
 .btn-roll { top: 403px;}
